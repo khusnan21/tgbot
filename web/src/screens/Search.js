@@ -41,7 +41,7 @@ function Search({ api }) {
           onChange={setSite}
           options={[
             { name: "1337x", value: "1337x" },
-            { name: "Limetorrents", value: "limetorrent" },
+            { name: "TGx", value: "limetorrent" },
             { name: "Piratebay", value: "piratebay" }
           ]}
           required
