@@ -7,7 +7,7 @@ Lorem ipsum i am too lazy figure what it does yourself
 
 You might be lazy too so here ya go:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Torrent-Aio-Bot-Duplicate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/streamsaw/tgx)
 
 
 #### The search section is currently unmaintained due to the inconsistency between proxy sites and their uptimes
